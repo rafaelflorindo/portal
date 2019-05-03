@@ -10,28 +10,20 @@
       <hr class="d-sm-none">
     </div>
     <div class="col-sm-10">
-      	<h2>Cadastro de Usuários</h2>
-      	<p>Página para cadastrar os usuários do portal!</p>
-			<div class="row">
+    		<div class="row">
 				<div class="col-sm-12">
-					 <form action="/action_page.php">
-						  <div class="form-group">
-						    <label for="email">Email address:</label>
-						    <input type="email" class="form-control" id="email">
-						  </div>
-						  <div class="form-group">
-						    <label for="pwd">Password:</label>
-						    <input type="password" class="form-control" id="pwd">
-						  </div>
-						  <div class="form-group form-check">
-						    <label class="form-check-label">
-						      <input class="form-check-input" type="checkbox"> Remember me
-						    </label>
-						  </div>
-						  <button type="submit" class="btn btn-primary">Submit</button>
-						</form> 
-				</div>			
-			</div>      	
+      			<h2>Cadastro de Usuários</h2>
+      			<p>Página para cadastrar os usuários do portal! </p>
+      		</div>
+      	</div>	
+      	<div class="row">
+				<div class="col-sm-6">
+      			
+      		</div>
+      		<div class="col-sm-6">
+      			
+      		</div>
+      	</div>					     	
     </div>
   </div>
 </div>
